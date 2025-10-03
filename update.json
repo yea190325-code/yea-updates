@@ -1,9 +1,0 @@
-json
-{
-    "version": "2.1",
-    "download_url": "https://github.com/yusaenesaksu/yea-updates/releases/download/v2.1/update.zip",
-    "release_date": "2024-01-20",
-    "description": "Otomatik güncelleme sistemi eklendi",
-    "release_notes": "✨ Yeni Özellikler:\n• Tam otomatik güncelleme\n• Geri dönüş yedeği\n• İlerleme takibi\n\n🐛 Düzeltmeler:\n• Performans iyileştirmeleri\n• Hata düzeltmeleri",
-    "mandatory": false
-}
