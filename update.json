@@ -1,8 +1,8 @@
 {
-    "version": "2.1",
-    "download_url": "https://github.com/yea190325-code/yea-updates/releases/download/v2.1/update.zip",
+    "version": "2.2",
+    "download_url": "https://github.com/yea190325-code/yea-updates/releases/download/v2.2/YEA_Giris_Sistemi.exe",
     "release_date": "2024-01-20",
-    "description": "Otomatik güncelleme sistemi eklendi",
-    "release_notes": "✨ Yeni Özellikler:\n• Tam otomatik güncelleme\n• Geri dönüş yedeği\n• İlerleme takibi\n\n🐛 Düzeltmeler:\n• Performans iyileştirmeleri\n• Hata düzeltmeleri",
+    "description": "EXE versiyonu - Tek tıkla çalışır",
+    "release_notes": "🎯 Yeni Özellikler:\n• Tek EXE dosyası\n• Python gerektirmez\n• Otomatik güncelleme\n• Hızlı başlangıç",
     "mandatory": false
 }
